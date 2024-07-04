@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/the-semantic-web/static/css/main.f855e6bc.css",
-    "main.js": "/the-semantic-web/static/js/main.5e7e52c7.js",
+    "main.css": "/the-semantic-web/static/css/main.90c1c169.css",
+    "main.js": "/the-semantic-web/static/js/main.5c81dc11.js",
     "static/js/453.bdb42a55.chunk.js": "/the-semantic-web/static/js/453.bdb42a55.chunk.js",
-    "static/media/logo.svg": "/the-semantic-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo.png": "/the-semantic-web/static/media/logo.ecf306d0e90116edfc62.png",
     "index.html": "/the-semantic-web/index.html",
-    "main.f855e6bc.css.map": "/the-semantic-web/static/css/main.f855e6bc.css.map",
-    "main.5e7e52c7.js.map": "/the-semantic-web/static/js/main.5e7e52c7.js.map",
+    "main.90c1c169.css.map": "/the-semantic-web/static/css/main.90c1c169.css.map",
+    "main.5c81dc11.js.map": "/the-semantic-web/static/js/main.5c81dc11.js.map",
     "453.bdb42a55.chunk.js.map": "/the-semantic-web/static/js/453.bdb42a55.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.5e7e52c7.js"
+    "static/css/main.90c1c169.css",
+    "static/js/main.5c81dc11.js"
   ]
 }
