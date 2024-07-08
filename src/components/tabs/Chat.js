@@ -6,7 +6,7 @@ const Chat = () => {
 	const [contact, setContact] = useState(null);
 
 	return (
-		<div className="chat-container">
+		<div>
 			<h2>Chat with Others</h2>
 			<p>Send a message to your friends or instructors.</p>
 			<br />
