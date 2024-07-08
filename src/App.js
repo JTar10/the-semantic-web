@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 import Home from './components/tabs/Home';
 import CourseCatalog from './components/tabs/CourseCatalog';
 import PurchaseCourse from './components/tabs/PurchaseCourse';
@@ -22,6 +22,7 @@ function App() {
           <Route path="/practice" element={<Practice />} />
           <Route path="/schedule" element={<Schedule />} />
           <Route path="/chat" element={<Chat />} />
+          <Route path="*" element={<Navigate to="/" />} />
         </Routes>
       </div>
     </Router>
